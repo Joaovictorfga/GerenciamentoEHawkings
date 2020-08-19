@@ -1,6 +1,5 @@
 #include <iostream>
 #include <list>
-#include <algorithm>
 using namespace std;
 
 
@@ -24,7 +23,7 @@ public:
 			cout << "Membro Efetivado\n";
 		}
 		else {
-			cout << "Membro já é efetivo\n";
+			cout << "Membro jÃ¡ Ã© efetivo\n";
 		}
 
 	}
